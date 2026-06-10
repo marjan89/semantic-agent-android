@@ -1,3 +1,9 @@
+> ⚠ **ABSORBED INTO `ddb` @ [github.com/marjan89/ddb](https://github.com/marjan89/ddb)** (subdir [`agent/`](https://github.com/marjan89/ddb/tree/main/agent)).
+> This repo is **read-only history reference** as of `ddb-v0.4.0` (Epic G, 2026-06-10).
+> New work lands in `ddb`. Last live SHA here: `a5d9baf`.
+
+---
+
 # semantic-agent (Android)
 
 Debug-only in-process HTTP server exposing the Android view tree, idle state, and tap/type surface for automated QA. Released as `dev.substrate:semantic-agent`.
